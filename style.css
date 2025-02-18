@@ -1,0 +1,15 @@
+.galeria img{
+    height: 25vh ;
+    align-items: center;
+    padding: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+    
+}
+
+body{
+    background-image: url(./img/outer-space-background.jpg);
+}
+
